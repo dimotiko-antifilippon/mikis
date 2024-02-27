@@ -52,9 +52,11 @@ img{
 }
 
 #body>ul {
+	align-items: center;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 24px 0 0;
+	margin-left: 8%;
 	width: 85%;
 }
 
